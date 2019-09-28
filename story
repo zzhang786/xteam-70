@@ -1,4 +1,4 @@
-Stroy
+Stroy//Zan
 
 This is an addition to the story
 
