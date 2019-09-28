@@ -1,4 +1,5 @@
 Stroy//Zan
+This is the new story.
 
 This is an addition to the story
 
